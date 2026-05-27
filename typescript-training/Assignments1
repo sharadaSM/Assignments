@@ -1,3 +1,0 @@
-//Assignments1 
-let emplid : number = 12345;
-console.log(emplid); 
