@@ -1,4 +1,4 @@
-let emplid : number = 12345;
+/*let emplid : number = 12345;
 let empname : string = "Preeti";
 let isPermanent : boolean = true;
 let department : string[] = ["HR", "Finance", "IT"];
@@ -7,4 +7,6 @@ console.log(emplid);
 console.log('Name of the empname is ${empname}');
 console.log(isPermanent);
 console.log(department);
-console.log(empDetails);
+console.log(empDetails); */
+
+
